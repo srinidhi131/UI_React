@@ -1,0 +1,42 @@
+.con{
+    background: #f6f6f6;
+    width: 100%;
+}
+#red{
+    color: red;
+}
+p{
+    margin-bottom: 5%;
+}
+.info-container{
+    background: #f6f6f6;
+    width:50%;
+    float:right;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    padding-right: 10%;
+}
+.info{
+    padding: 10%;
+    width: 30%;
+    float: left;
+}
+
+@media screen and (max-width: 960px){
+    .info{
+        float: none;
+        width: 100%
+    }
+    p{
+        float: none;
+        text-align: center;
+    }
+    h1{
+        text-align: center;
+    }
+    .info-container{
+        margin-top: 2%;
+        padding: 10%;
+        width: 100%
+    }
+}

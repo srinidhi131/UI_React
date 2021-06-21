@@ -1,0 +1,38 @@
+#red{
+    color: red;
+}
+p{
+    float: left;
+}
+.hero-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 10%;
+    width: 50%
+}
+.home{
+    float:right;
+    width: 40%;
+    height: 30%;
+    margin-top: 5%;
+    margin-right: 15rem;
+    margin-bottom: 5%;
+}
+
+@media screen and (max-width: 960px){
+    .home{
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    p{
+        float: none;
+        text-align: center;
+    }
+    .hero-container{
+        margin-top: 2%;
+        padding: 10%;
+        width: 100%;
+        text-align: center;
+    }
+}
