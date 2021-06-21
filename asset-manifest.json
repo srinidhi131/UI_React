@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/UI_React/static/css/main.e492ba7d.chunk.css",
+    "main.js": "/UI_React/static/js/main.c3c4adde.chunk.js",
+    "main.js.map": "/UI_React/static/js/main.c3c4adde.chunk.js.map",
+    "runtime-main.js": "/UI_React/static/js/runtime-main.4b2677f6.js",
+    "runtime-main.js.map": "/UI_React/static/js/runtime-main.4b2677f6.js.map",
+    "static/css/2.138ed9d6.chunk.css": "/UI_React/static/css/2.138ed9d6.chunk.css",
+    "static/js/2.f0671449.chunk.js": "/UI_React/static/js/2.f0671449.chunk.js",
+    "static/js/2.f0671449.chunk.js.map": "/UI_React/static/js/2.f0671449.chunk.js.map",
+    "index.html": "/UI_React/index.html",
+    "static/css/2.138ed9d6.chunk.css.map": "/UI_React/static/css/2.138ed9d6.chunk.css.map",
+    "static/css/main.e492ba7d.chunk.css.map": "/UI_React/static/css/main.e492ba7d.chunk.css.map",
+    "static/js/2.f0671449.chunk.js.LICENSE.txt": "/UI_React/static/js/2.f0671449.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/UI_React/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/home.16722cd5.PNG": "/UI_React/static/media/home.16722cd5.PNG",
+    "static/media/img1.b9393368.PNG": "/UI_React/static/media/img1.b9393368.PNG",
+    "static/media/img2.b15a1dc5.PNG": "/UI_React/static/media/img2.b15a1dc5.PNG",
+    "static/media/img3.4bb498ab.PNG": "/UI_React/static/media/img3.4bb498ab.PNG",
+    "static/media/info.968abf46.PNG": "/UI_React/static/media/info.968abf46.PNG",
+    "static/media/logo.7420dd5e.PNG": "/UI_React/static/media/logo.7420dd5e.PNG",
+    "static/media/partner.191d0881.PNG": "/UI_React/static/media/partner.191d0881.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b2677f6.js",
+    "static/css/2.138ed9d6.chunk.css",
+    "static/js/2.f0671449.chunk.js",
+    "static/css/main.e492ba7d.chunk.css",
+    "static/js/main.c3c4adde.chunk.js"
+  ]
+}
